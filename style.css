@@ -1,0 +1,9 @@
+.cardProductos{
+    width: 100%;
+    margin: 5px;
+}
+
+#divProductos{
+    display: flex;
+    flex-direction: row;
+}
